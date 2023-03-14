@@ -1,0 +1,48 @@
+<div class="carousel-item">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="slider-content">
+                                    <h1 class="title">Collaborate & Develop</h1>
+                                    <p class="text">We practice teamwork and creativity to deliver<br> high-end products.</p>
+                                    <ul class="slider-btn rounded-buttons">
+                                        <li><a class="main-btn rounded-one" href="http://localhost/smash-template-opl/#contact">Contact</a></li>
+                                        <!-- <li><a class="main-btn rounded-two" href="#">DOWNLOAD</a></li> -->
+                                    </ul>
+                                </div> <!-- slider-content -->
+                            </div>
+                        </div> <!-- row -->
+                    </div> <!-- container -->
+                    <div class="slider-image-box d-none d-lg-flex align-items-end" >
+                        <div class="slider-image" style="margin:auto">
+                            <img src="assets/images/slider/team.png" alt="Hero">
+                        </div> <!-- slider-imgae -->
+                    </div> <!-- slider-imgae box -->
+                </div> <!-- carousel-item -->
+
+                <div class="carousel-item">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="slider-content">
+                                    <h1 class="title">Mobile App Development</h1>
+                                    <p class="text">Turning your beautiful ideas into an app.</p>
+                                    <ul class="slider-btn rounded-buttons">
+                                    <li><a class="main-btn rounded-one" href="http://localhost/smash-template-opl/#contact">Contact</a></li>
+                                        <!-- <li><a class="main-btn rounded-two" href="#">DOWNLOAD</a></li> -->
+                                    </ul>
+                                </div> <!-- slider-content -->
+                            </div>
+                        </div> <!-- row -->
+                    </div> <!-- container -->
+                    <div class="slider-image-box d-none d-lg-flex align-items-end">
+                        <div class="slider-image" style="position:absolute; bottom:5%; left:11%;">
+                            <img src="assets/images/slider/mobile.png" style="width:90%" alt="Hero">
+                        </div> <!-- slider-imgae -->
+                    </div> <!-- slider-imgae box -->
+                </div> <!-- carousel-item -->
+
+
+
+
+ Dark blue= 006 or #000066
