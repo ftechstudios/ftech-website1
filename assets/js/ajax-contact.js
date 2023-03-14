@@ -26,7 +26,9 @@ $(function() {
 			$(formMessages).addClass('success');
 
 			// Set the message text.
-			$(formMessages).text(response);
+			// $(formMessages).text(response);
+			$(formMessages).text('Your form has been submitted successfully.');
+
 
 			// Clear the form.
 			$('#contact-form input,#contact-form textarea').val('');
